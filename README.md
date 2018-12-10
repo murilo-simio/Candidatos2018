@@ -24,3 +24,4 @@ Exemplo aleatorio do comando para rodar o programa:
 
 Obs.: O programa imprime o numero do partido ao inves do nome do partido, mas para imprimir os nomes basta imprimir a matriz siglas.
 
+Está incluso no github dois arquivos disponiveis no site do tse com a relação de candidatos do estado do DF e do Brasil todo.
